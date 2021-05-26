@@ -1,0 +1,3 @@
+FROM ngnix
+ENV ngnix 1.5.7
+EXPOSE 2001
